@@ -1,5 +1,5 @@
-### 👋 Hi there, I'm Isac!
-#### 🎯 Passionate about Data Analysis and ML/AI
+## 👋 Hi there, I'm Isac!
+### 🎯 Passionate about Data Analysis and ML/AI
 I’m an undergraduate student at UFABC, diving deep into the world of Data Science. With a strong foundation in tools like Power BI and Tableau, I’m also experienced in SQL and Python for Data Analysis and Machine Learning.
 
 Currently, I'm exploring AI and planning to delve deeper into cloud computing concepts. This portfolio is my space to showcase my journey — I hope you enjoy my projects, and feel free to connect for a chat!
