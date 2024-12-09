@@ -17,8 +17,11 @@ Studying AI applications and cloud computing
 📊 GitHub Stats
 
 ## 🤝 Let’s Connect!
+
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='30'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='30'>
+
+
 
 
 
