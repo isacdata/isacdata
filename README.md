@@ -1,23 +1,15 @@
-####👋 Hi there, I'm Isac!
-###🎯 Passionate about Data Analysis and ML/AI
-I’m an undergraduate student at UFABC, diving deep into the world of Data Science. With a strong foundation in tools like Power BI and Tableau, I’m also experienced in SQL and Python for Data Analysis and Machine Learning.
+### Hi there 👋, i am Isac!
+#### I am passionate about data analysis and ML/AI!
+I am a UFABC undergraduate student, currently venturing into the world of Data Science. I am well versed in data analysis tools such as Power BI and Tableau, and I also have good experience with SQL and Python (Data Analysis and Machine Learning). I am still exploring AI and intend to study cloud concepts in more depth. I am currently working on this great portfolio project, I hope you like my work and that we can chat a little if you are interested!
 
-Currently, I'm exploring AI and planning to delve deeper into cloud computing concepts. This portfolio is my space to showcase my journey — I hope you enjoy my projects, and feel free to connect for a chat!
+Skills: Power Bi / Tableau / SQL / Python / Sklearn / Figma
 
-###🌟 Skills
-🛠 Tools & Languages
-Visualization: Power BI, Tableau
-Programming: Python (Sklearn, Pandas, etc.), SQL
-Design: Figma
-🌱 Current Focus
-Building a robust portfolio
-Studying AI applications and cloud computing
-###📊 GitHub Stats
+- 🔭 I’m currently working on this page. 
 
-###🤝 Let’s Connect!
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='30'>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='30'>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/isacdata)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isacdata)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
