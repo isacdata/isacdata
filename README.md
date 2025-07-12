@@ -1,25 +1,45 @@
-# 👋 Hi there, I'm Isac!
-## 🎯 Passionate about Data Analysis and ML/AI
-I’m an undergraduate student at UFABC, diving deep into the world of Data Science. With a strong foundation in tools like Power BI and Tableau, I’m also experienced in SQL and Python for Data Analysis and Machine Learning.
+# 👋 Olá! Eu sou o Isac Vieira
 
-Currently, I'm exploring AI and planning to delve deeper into cloud computing concepts. This portfolio is my space to showcase my journey — I hope you enjoy my projects, and feel free to connect for a chat!
+Sou estudante de Ciência de Dados, apaixonado por análise interpretável, aprendizado supervisionado e projetos que tenham um impacto claro na vida real.
 
-## 🌟 Skills
-### 🛠 Tools & Languages
+Me interesso por:
 
-Visualization: Power BI, Tableau
-Programming: Python (Sklearn, Pandas, etc.), SQL
-Design: Figma
+- 📊 **Estatística aplicada** à educação e sociedade  
+- 🤖 **Machine Learning supervisionado** com regressão e classificação  
+- 🧠 **Explicabilidade e análise crítica de modelos**  
+- 🌎 Projetos com valor humano, não só técnico
 
-## 🌱 Current Focus
-Building a robust portfolio
-Studying AI applications and cloud computing
-📊 GitHub Stats
+---
 
-## 🤝 Let’s Connect!
+## 🚀 Portfólio de Projetos
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='30'>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='30'>
+| Projeto | Descrição |
+|--------|-----------|
+| [Hackathon DATAS – UFABC]| Previsão de nota + probabilidade de aprovação com XGBoost + Streamlit |
+| [Análise do ENEM 2023 (INEP)] | Exploração estatística + regressão de nota com dados reais do INEP |
+| [Modelos Classificação de Usuários] | Comparativo técnico entre classificadores supervisionados |
+| [Fatores de Desempenho Estudantil] | Regressão linear explicativa com storytelling e análise de impacto |
+
+---
+
+## 🧰 Tecnologias que uso
+
+- **Python (pandas, sklearn, seaborn, statsmodels, xgboost)**  
+- **SQL para análise relacional e consultas complexas**  
+- **Streamlit para criar apps de dados**  
+- **Jupyter para comunicação clara com dados**
+
+---
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/seuperfil)
+- Email: isac.vieira@bsci.com
+
+---
+
+💬 *“Analisar é entender. Modelar é explicar. Comunicar é transformar.”*
+
 
 
 
