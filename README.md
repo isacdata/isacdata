@@ -33,7 +33,7 @@ Me interesso por:
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seuperfil)
+- [LinkedIn](www.linkedin.com/in/isac-vieira)
 - Email: isac.vieira@bsci.com
 
 ---
