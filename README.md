@@ -33,8 +33,8 @@ Me interesso por:
 
 ## 📫 Contato
 
-- [LinkedIn](www.linkedin.com/in/isac-vieira)
-- Email: isac.vieira@bsci.com
+- [LinkedIn](https://www.linkedin.com/in/isac-vieira)
+- Email: isacnascimento1@outlook.com
 
 ---
 
