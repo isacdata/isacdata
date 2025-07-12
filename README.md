@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Isac Vieira
 
-Sou estudante de Ciência de Dados, apaixonado por análise interpretável, aprendizado supervisionado e projetos que tenham um impacto claro na vida real.
+Sou um analista/cientista de dados sempre em formação, apaixonado por análise interpretável, aprendizado supervisionado e projetos que tenham um impacto claro na vida real.
 
 Me interesso por:
 
