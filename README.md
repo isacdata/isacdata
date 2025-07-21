@@ -21,8 +21,8 @@ Me interesso por:
 | [Hackathon DATAS – UFABC](https://github.com/isacdata/I-Hackathon-DATAS-UFABC) | Previsão de nota + classificação de aprovação com XGBoost |
 | [Análise do ENEM 2023 (INEP)](https://github.com/isacdata/Analise-do-INEP-2023) | Regressão estatística da nota com fatores socioeconômicos |
 | [Modelos Classificação de Usuários](https://github.com/isacdata/Modelos-Classificacao-de-Usuarios) | Comparativo técnico entre KNN, Naïve Bayes, SVM e Decision Tree |
-| [Fatores de Desempenho Estudantil](https://github.com/isacdata/Analise-Fatores-Desempenho-Estudantil) | Regressão linear explicativa com storytelling e análise crítica |
-| [Análise de Growth de Usuários](https://github.com/isacdata/Analise-de-Growth) | Análise exploratória + clusters com base em padrão de crescimento |
+| [Fatores de Desempenho Estudantil](https://github.com/isacdata/Analise-Fatores-Desempenho-Estudantil) | Regressão linear explicativa com storytelling e análise crítica/estatística |
+| [Análise de Growth de Usuários](https://github.com/isacdata/Analise-de-Growth) | Dashboard Tableau + clusters com base em padrão de crescimento |
 
 ---
 
